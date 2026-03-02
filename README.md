@@ -1,7 +1,7 @@
 
 (# AttackMenu — Terminal Attack GM2373_404)
 
-![](assets/image.png)
+![](src/assets/image.png)
 
 Aviso: este repositório contém ferramentas de auditoria, coleta e teste de credenciais e utilitários que podem ser abusados para atividades maliciosas (coleta de variáveis de repositórios públicos, validação SMTP, verificação de URIs MongoDB e rotinas de bloqueio). Use apenas em ambientes de teste controlados e com autorização explícita. O autor não se responsabiliza por uso indevido.
 
